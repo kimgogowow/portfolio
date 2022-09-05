@@ -2,8 +2,8 @@
 # Yuchen(Kim) Wu Porfolio
   This is my public portfolio for Telling Stories with Data at CMU!
   
-## About Me :wink:
-<img src="https://github.com/kimgogowow/portfolio/blob/main/kimPic.jpeg" height=400></img>
+## About Me 😉
+<img src="https://i.imgur.com/o98Do9y.jpg" height=400></img>
 
 Major: MISM GLOBAL
 
@@ -12,7 +12,7 @@ Gender: Female both mentally and physically
 Hobbies: Scare people with ghost stories
 
 
-## What I hope to learn :smiley:
+## What I hope to learn 😉
 .How to judge a chart better
 
 .How to improve a chart
@@ -21,7 +21,7 @@ Hobbies: Scare people with ghost stories
 
 .Everything else...
 
-## Portfolio :star_struck:
+## Portfolio 🤩
 Here's where all my cool work reocrds, then you can realize what I can do for you.
 
 ![image](programrecords.png)
