@@ -3,7 +3,7 @@
   This is my public portfolio for Telling Stories with Data at CMU!
   
 ## About Me
-![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+![This is an image](IMG_7423.HEIC)
 
 Major: MISM GLOBAL
 
