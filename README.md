@@ -3,7 +3,7 @@
   This is my public portfolio for Telling Stories with Data at CMU!
   
 ## About Me 😉
-<img src="https://i.imgur.com/o98Do9y.jpg" height=500></img>
+<img src="https://i.imgur.com/o98Do9y.jpg" height=500>
 
 Major: MISM GLOBAL
 
