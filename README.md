@@ -28,7 +28,7 @@ Here's where all my cool work reocrds, then you can realize what I can do for yo
 
 
 ## Porfolio
-Assignment1 : Create my Portfolio check https://kimgogowow.github.io/portfolio/
+Assignment1 : Create my Portfolio <a href=https://kimgogowow.github.io/portfolio/>check</a>
 
 Assignment2
 
