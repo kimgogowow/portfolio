@@ -24,4 +24,4 @@ Hobbies: Scare people with ghost stories
 ## Portfolio
 Here's where all my cool work reocrds, then you can realize what I can do for you.
 
-![image](https://user-images.githubusercontent.com/100476425/188487025-117b032b-1797-42fe-b6cc-049579d931dc.png)
+![image](programrecords.png)
