@@ -3,7 +3,11 @@
   This is my public portfolio for Telling Stories with Data at CMU!
   
 ## About Me 😉
-<img src="https://i.imgur.com/o98Do9y.jpg" height=500,pos='center'>
+
+<p align="center">
+  <img src="https://i.imgur.com/o98Do9y.jpg" height=500 >
+</p>
+
 
 Major: MISM GLOBAL
 
@@ -24,7 +28,9 @@ Hobbies: Scare people with ghost stories
 ## Past programming experiences 🤩
 Here's where all my cool work reocrds, then you can realize what I can do for you.
 
-![image](programrecords.png)
+<p align="center">
+  <img src="programrecords.png" height=500>
+</p>
 
 
 ## Porfolio
