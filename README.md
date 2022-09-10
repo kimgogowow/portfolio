@@ -6,6 +6,8 @@
 
 [ctest](dataviz2.md)
 
+<div class="flourish-embed flourish-chart" data-src="visualisation/11148061"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
 <p align="center">
   <img src="https://i.imgur.com/o98Do9y.jpg" height=500 >
 </p>
