@@ -45,7 +45,7 @@ Here's where all my cool work reocrds, then you can realize what I can do for yo
 ## Porfolio
 Assignment1 : Create my Portfolio    [GitHub Pages](https://kimgogowow.github.io/portfolio/) 
 
-Assignment2
+Assignment2. :[General government debt visulization](https://public.flourish.studio/resources/embed.js)
 
 Assignment3
 
