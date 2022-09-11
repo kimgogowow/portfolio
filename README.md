@@ -47,6 +47,8 @@ Assignment1 : Create my Portfolio    [GitHub Pages](https://kimgogowow.github.io
 
 Assignment2. :[General government debt visulization](https://public.flourish.studio/resources/embed.js)
 
+<div class="flourish-embed flourish-chart" data-src="visualisation/11152486"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
 Assignment3
 
 Final project
