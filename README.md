@@ -4,15 +4,6 @@
   
 ## About Me 😉
 
-[ctest](dataviz2.md)
-
-<iframe src='https://flo.uri.sh/visualisation/11148061/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe><div style='width:100%!;margin-top:4px!important;text-align:right!important;'><a class='flourish-credit' href='https://public.flourish.studio/visualisation/11148061/?utm_source=embed&utm_campaign=visualisation/11148061' target='_top' style='text-decoration:none!important'><img alt='Made with Flourish' src='https://public.flourish.studio/resources/made_with_flourish.svg' style='width:105px!important;height:16px!important;border:none!important;margin:0!important;'> </a></div>
-
-[government ratio report](https://flo.uri.sh/visualisation/11148061/embed)
-
-<div class="flourish-embed flourish-chart" data-src="visualisation/11148061">
-  <script src="https://public.flourish.studio/resources/embed.js">yyyyyy</script></div>
-
 <p align="center">
   <img src="https://i.imgur.com/o98Do9y.jpg" height=500 >
 </p>
@@ -45,7 +36,9 @@ Here's where all my cool work reocrds, then you can realize what I can do for yo
 ## Porfolio
 Assignment1 : Create my Portfolio    [GitHub Pages](https://kimgogowow.github.io/portfolio/) 
 
-Assignment2. :[General government debt visulization](https://public.flourish.studio/resources/embed.js)
+Assignment2. :[General government debt visulization](dataviz2.md)
+
+[General government debt visulization](https://public.flourish.studio/resources/embed.js)
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/11152486"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
