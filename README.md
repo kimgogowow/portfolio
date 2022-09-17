@@ -34,9 +34,9 @@ Here's where all my cool work reocrds, then you can realize what I can do for yo
 
 
 ## Porfolio
-Assignment1 : Create my Portfolio    [GitHub Pages](https://kimgogowow.github.io/portfolio/) 
+### Assignment1 : Create my Portfolio    [GitHub Pages](https://kimgogowow.github.io/portfolio/) 
 
-Assignment2. :
+### Assignment2. :
 
 part 1:
 <iframe src="https://data.oecd.org/chart/6ODl" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/6ODl" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2021</a></iframe>
@@ -46,7 +46,7 @@ part2:
 part3:
 <iframe src='https://flo.uri.sh/visualisation/11152486/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe>
 
-### Difference analysis:
+#### Difference analysis:
 
 Compared to the first one, the second one obviously has more clear vision over a period of time, instead of only one specific year. Hence audiences can see the trend better. Line graph helps to see each country’s situation with separate grids. And the dot in the end of each line stressed the ending point of each one, which can be a good mark to show the latest situation of each country.
 
@@ -54,25 +54,25 @@ But the second version also has problems. Firstly, each graph is individual from
 
 Thus I  choose to use histogram instead of line chart. Firstly, the area of histogram can represent the scale of each country’s debt better. For example, it is very clear that AUT has more debt than AUS as its blue area is bigger. On the other hand, I changed the color from brown to dark blue , which seems more like a finance color, seems more reliable and professional.
 
-Assignment3&4:
-### 1.the original version 
+### Assignment3&4:
+#### 1.the original version 
 <a href="https://www-statista-com.cmu.idm.oclc.org/chart/26334/effect-of-price-increases-on-the-financial-situation-of-households/" title="Infographic: Inflation Causing Hardship for Majority of U.S. Households | Statista"><img src="https://cdn.statcdn.com/Infographic/images/normal/26334.jpeg" alt="Infographic: Inflation Causing Hardship for Majority of U.S. Households | Statista" width="100%" height="auto" style="width: 100%; height: auto !important; max-width:960px;-ms-interpolation-mode: bicubic;"/></a> You will find more infographics at <a href="https://www-statista-com.cmu.idm.oclc.org/chartoftheday/">Statista</a>
 
-### 2.critique the data visualization
+#### 2.critique the data visualization
 see google form
 
-### 3.Wireframe a solution
+#### 3.Wireframe a solution
 ![IMG_12802031C71A-1](https://user-images.githubusercontent.com/100476425/190842806-3ae0019d-1fcd-432f-a1a9-51c5471c7eed.jpeg)
 
 
-### 4.Test the solution
+#### 4.Test the solution
 ![IMG_15C3BF9229D9-1](https://user-images.githubusercontent.com/100476425/190845080-ad3fa717-0dcf-47f2-9cda-ec6d0e1befc0.jpeg)
 
-### 5.Recreated data visualization
-Final project
+#### 5.Recreated data visualization
+
 ![IMG_C01EA1B5B852-1](https://user-images.githubusercontent.com/100476425/190845034-d02ee769-c328-426d-ab0d-e5b49c34e2d5.jpeg)
 
-
+### Final project
 ## Fun part
 <iframe title="[ Kim's life Map ] (Copy)" aria-label="Locator maps" id="datawrapper-chart-ItgMY" src="https://datawrapper.dwcdn.net/ItgMY/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="489"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script>
