@@ -54,7 +54,11 @@ But the second version also has problems. Firstly, each graph is individual from
 
 Thus I  choose to use histogram instead of line chart. Firstly, the area of histogram can represent the scale of each country’s debt better. For example, it is very clear that AUT has more debt than AUS as its blue area is bigger. On the other hand, I changed the color from brown to dark blue , which seems more like a finance color, seems more reliable and professional.
 
-Assignment3
+Assignment3&4:
+### 1.the original version 
+<a href="https://www-statista-com.cmu.idm.oclc.org/chart/26334/effect-of-price-increases-on-the-financial-situation-of-households/" title="Infographic: Inflation Causing Hardship for Majority of U.S. Households | Statista"><img src="https://cdn.statcdn.com/Infographic/images/normal/26334.jpeg" alt="Infographic: Inflation Causing Hardship for Majority of U.S. Households | Statista" width="100%" height="auto" style="width: 100%; height: auto !important; max-width:960px;-ms-interpolation-mode: bicubic;"/></a> You will find more infographics at <a href="https://www-statista-com.cmu.idm.oclc.org/chartoftheday/">Statista</a>
+
+### 2.critique of the chart
 
 Final project
 
