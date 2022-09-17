@@ -62,7 +62,8 @@ Assignment3&4:
 see google form
 
 ### 3.Wireframe a solution
-![IMG_AC6591776339-1](https://user-images.githubusercontent.com/100476425/190842393-5620fa04-1884-46f2-ac1b-39c12b4430a7.jpeg)
+![IMG_12802031C71A-1](https://user-images.githubusercontent.com/100476425/190842806-3ae0019d-1fcd-432f-a1a9-51c5471c7eed.jpeg)
+
 
 ### 4.Test the solution
 
