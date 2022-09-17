@@ -58,8 +58,15 @@ Assignment3&4:
 ### 1.the original version 
 <a href="https://www-statista-com.cmu.idm.oclc.org/chart/26334/effect-of-price-increases-on-the-financial-situation-of-households/" title="Infographic: Inflation Causing Hardship for Majority of U.S. Households | Statista"><img src="https://cdn.statcdn.com/Infographic/images/normal/26334.jpeg" alt="Infographic: Inflation Causing Hardship for Majority of U.S. Households | Statista" width="100%" height="auto" style="width: 100%; height: auto !important; max-width:960px;-ms-interpolation-mode: bicubic;"/></a> You will find more infographics at <a href="https://www-statista-com.cmu.idm.oclc.org/chartoftheday/">Statista</a>
 
-### 2.critique of the chart
+### 2.critique the data visualization
+see google form
 
+### 3.Wireframe a solution
+![IMG_AC6591776339-1](https://user-images.githubusercontent.com/100476425/190842393-5620fa04-1884-46f2-ac1b-39c12b4430a7.jpeg)
+
+### 4.Test the solution
+
+### 5.Recreated data visualization
 Final project
 
 ## Fun part
