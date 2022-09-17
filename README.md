@@ -66,9 +66,12 @@ see google form
 
 
 ### 4.Test the solution
+![IMG_15C3BF9229D9-1](https://user-images.githubusercontent.com/100476425/190845080-ad3fa717-0dcf-47f2-9cda-ec6d0e1befc0.jpeg)
 
 ### 5.Recreated data visualization
 Final project
+![IMG_C01EA1B5B852-1](https://user-images.githubusercontent.com/100476425/190845034-d02ee769-c328-426d-ab0d-e5b49c34e2d5.jpeg)
+
 
 ## Fun part
 <iframe title="[ Kim's life Map ] (Copy)" aria-label="Locator maps" id="datawrapper-chart-ItgMY" src="https://datawrapper.dwcdn.net/ItgMY/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="489"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
