@@ -4,11 +4,14 @@
 
 portfolio/fbi_female_kidnappings.md
 
-[portfolio/fbi_female_kidnappings.md]
+check[portfolio/fbi_female_kidnappings.md]
 
 (portfolio/fbi_female_kidnappings.md)
 
 2.Female vs Male information: [pie chart]
+
+
+
 
 3.Female kidnappings map :[graph]
 
@@ -18,6 +21,7 @@ portfolio/fbi_female_kidnappings.md
 1.a list of top 5 reasons :[bar chart]
 
 (eg: phychos,anti-social,sexsual motivation,ransom....)
+
 
 ## Traumas 
 
