@@ -16,6 +16,8 @@ check[https://www.crimemapping.com/Share/51f9a32dd7ec452494c02473f4aa69b9]
 
 
 3.Female kidnappings map :[graph]
+<img width="1404" alt="image" src="https://user-images.githubusercontent.com/100476425/192429831-1d6426fa-0db0-4392-b99d-5cabd36be6c8.png">
+
 
 
 ## Female Kidnapping main senarios and reasons
