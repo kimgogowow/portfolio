@@ -31,12 +31,29 @@
 
 1.a list of top 10 possible traumas
 
+Thinking: Intrusive thoughts, denial, impaired memory, decreased concentration, being overcautious and aware, confusion, or fear of the event happening again
+
+Emotions: Shock, numbness, anxiety, guilt, depression, anger, and a sense of helplessness
+
+Interactions: Withdrawal and avoidance of family, friends, activities, and being on edge
+
 
 
 2.pics showing their pain
 
+<img width="195" alt="image" src="https://user-images.githubusercontent.com/100476425/192436399-7979a0b5-1856-4cc6-b0d7-abfa7f88fcc3.png">
+
+
 
 ## Solutions 
+
+Training strong anti-kidnapping agents
+
+Monitoring the activities of the police
+
+Serious punishment for offenders
+
+Job creation
 
 
 
