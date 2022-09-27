@@ -58,7 +58,7 @@ Interactions: Withdrawal and avoidance of family, friends, activities, and being
 
 [Training strong anti-kidnapping agents](https://www.sbstrains.com/standardized-training-programs/abduction-management/)
 
-[Monitoring the activities of the police](https://www.nationalcrimeagency.gov.uk/what-we-do/crime-threats/kidnap-and-extortion)
+------female protection and 
 
 [Serious punishment for offenders](https://malegislature.gov/Laws/GeneralLaws/PartIV/TitleI/Chapter265/Section26)
 
@@ -69,13 +69,15 @@ Interactions: Withdrawal and avoidance of family, friends, activities, and being
 
 firstly, three graphs or charts will be presented to show the current situation of female kidnappings, and the situation is serious, females are the main target to be hurt and the number is increasing every year. 
 
-
 Then in the second part, main reasons for females kidnapping can be listed according to it degree, bigger circle and bolder words means that reason takes a bigger role, smaller ones take weighter role. 
 
 In the third part,the consequences will be listed with different pics to help with the visulization, so that audience can realize the dark side of this and pay more attention to the last part, which is the solution part. 
 
 In the solution part, also pictures will be offered to help with visualization of each one, and the effectiveness of each solution can be shown on a bar chart,if the data is available, and finally to call for more attention on females' safety.
 
+### Method and Medium
+The project will be finally presented in shorthand platform. And bar chart, pie chart ,table, geographic graph can be applied in the shorthand platform.
+Pictures and videos will be needed to tell the background better, but too many medias can also be crowded, i will use minimum numbers of it.
 
 
 
