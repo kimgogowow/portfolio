@@ -2,11 +2,11 @@
 
 1.Female kidnappings distribution in different age range: [Bar chart]
 
-portfolio/fbi_female_kidnappings.md
-
-check[portfolio/fbi_female_kidnappings.md]
-
 (portfolio/fbi_female_kidnappings.md)
+
+
+
+
 
 2.Female vs Male information: [pie chart]
 
