@@ -67,7 +67,14 @@ Interactions: Withdrawal and avoidance of family, friends, activities, and being
 
 ### logic of the story telling:
 
-firstly, three graphs or charts will be presented to show the current situation of female kidnappings, and the situation is serious, females are the main target to be hurt and the number is increasing every year. Then in the second part, main reasons for females kidnapping can be listed according to it degree, bigger circle and bolder words means that reason takes a bigger role, smaller ones take weighter role. In the third part,the consequences will be listed with different pics to help with the visulization, so that audience can realize the dark side of this and pay more attention to the last part, which is the solution part. In the solution part, also pictures will be offered to help with visualization of each one, and the effectiveness of each solution can be shown on a bar chart,if the data is available, and finally to call for more attention on females' safety.
+firstly, three graphs or charts will be presented to show the current situation of female kidnappings, and the situation is serious, females are the main target to be hurt and the number is increasing every year. 
+
+
+Then in the second part, main reasons for females kidnapping can be listed according to it degree, bigger circle and bolder words means that reason takes a bigger role, smaller ones take weighter role. 
+
+In the third part,the consequences will be listed with different pics to help with the visulization, so that audience can realize the dark side of this and pay more attention to the last part, which is the solution part. 
+
+In the solution part, also pictures will be offered to help with visualization of each one, and the effectiveness of each solution can be shown on a bar chart,if the data is available, and finally to call for more attention on females' safety.
 
 
 
