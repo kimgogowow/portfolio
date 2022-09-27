@@ -14,7 +14,8 @@
 
 
 3.Female kidnappings map :[graph]
-<img width="1404" alt="image" src="https://user-images.githubusercontent.com/100476425/192429831-1d6426fa-0db0-4392-b99d-5cabd36be6c8.png">
+
+![IMG_5E8ABFDA4549-1](https://user-images.githubusercontent.com/100476425/192431560-fef62830-dcb9-49da-83ac-7e4788904bf0.jpeg)
 
 
 
