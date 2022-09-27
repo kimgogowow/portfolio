@@ -56,13 +56,13 @@ Interactions: Withdrawal and avoidance of family, friends, activities, and being
 
 ## Solutions 
 
-Training strong anti-kidnapping agents
+[Training strong anti-kidnapping agents](https://www.sbstrains.com/standardized-training-programs/abduction-management/)
 
-Monitoring the activities of the police
+[Monitoring the activities of the police](https://www.nationalcrimeagency.gov.uk/what-we-do/crime-threats/kidnap-and-extortion)
 
-Serious punishment for offenders
+[Serious punishment for offenders](https://malegislature.gov/Laws/GeneralLaws/PartIV/TitleI/Chapter265/Section26)
 
-Job creation
+[Job creation](https://clintonwhitehouse4.archives.gov/WH/EOP/CEA/html/labor.html)
 
 
 ### logic of the story telling:
