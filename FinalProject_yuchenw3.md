@@ -10,9 +10,7 @@ check[portfolio/fbi_female_kidnappings.md]
 
 2.Female vs Male information: [pie chart]
 
-https://www.crimemapping.com/Share/51f9a32dd7ec452494c02473f4aa69b9
-check[https://www.crimemapping.com/Share/51f9a32dd7ec452494c02473f4aa69b9]
-<br>https://www.crimemapping.com/Share/51f9a32dd7ec452494c02473f4aa69b9
+![IMG_DF5454D3CEBE-1](https://user-images.githubusercontent.com/100476425/192430628-f42f30a0-de16-4069-ad59-dc0059abb96d.jpeg)
 
 
 3.Female kidnappings map :[graph]
