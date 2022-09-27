@@ -58,12 +58,20 @@ Interactions: Withdrawal and avoidance of family, friends, activities, and being
 
 [Training strong anti-kidnapping agents](https://www.sbstrains.com/standardized-training-programs/abduction-management/)
 
-------female protection and 
+------female protection and physical training
 
 [Serious punishment for offenders](https://malegislature.gov/Laws/GeneralLaws/PartIV/TitleI/Chapter265/Section26)
 
+------there may not be hard enough punishment towards this [graphs needed here]
+
 [Job creation](https://clintonwhitehouse4.archives.gov/WH/EOP/CEA/html/labor.html)
 
+
+### data used
+
+The background information is coming from FBI website about kidnapping and missing registrations, which is a public resources but I can not do scrape, I just manually did the documentation of the 80 more female records and used Tableau to do the bar chart, showing the distribution situation in different age range.[check here](https://www.fbi.gov/wanted/kidnap)
+
+And the narrative part will be from some articles, where no many data to support, but i will use list or table to show the points and pictures to attract audiences. 
 
 ### logic of the story telling:
 
