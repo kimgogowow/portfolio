@@ -98,7 +98,7 @@ After the modification, the perceptibility has improved, both audiences agree th
 
 Aesthetics also improved as the icon removed, which makes the chart not that crowded, and color changed, and cartoon faces used. One audience even mentioned that she likes the hand made chart better than a formal one made by computer tools due to personal aesthetic style.
 ### Final project
-[check it here!]("https://carnegiemellon.shorthandstories.com/finalProject_Yuchenw3/embed.js")
+![check it here!]("https://carnegiemellon.shorthandstories.com/finalProject_Yuchenw3/embed.js")
 
 ## Fun part
 <iframe title="[ Kim's life Map ] (Copy)" aria-label="Locator maps" id="datawrapper-chart-ItgMY" src="https://datawrapper.dwcdn.net/ItgMY/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="489"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
