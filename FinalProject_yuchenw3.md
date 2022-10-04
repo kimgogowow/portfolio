@@ -92,7 +92,7 @@ Pictures and videos will be needed to tell the background better, but too many m
 # PART II
 1.shorthand draft
 [CHECK HERE TO SEE SHORTHAND DRAFT](https://carnegiemellon.shorthandstories.com/finalProject_Yuchenw3/index.html)
-<script src="https://carnegiemellon.shorthandstories.com/finalProject_Yuchenw3/embed.js"></script>
+
 
 2.Interviews
 
@@ -100,6 +100,9 @@ Pictures and videos will be needed to tell the background better, but too many m
 
 Since it is a social topic, everyone should be my target audience.
         
-your approach to identifying representative individuals to interview; 
+### approach to identifying representative individuals to interview：
 
 ![IMG_E5164218C6DF-1](https://user-images.githubusercontent.com/100476425/193727354-5f885b82-d803-462c-b4bc-c6591af73ecb.jpeg)
+
+
+Overall to say, every one is surprised by the effect of shorthand draft program, and the story telling logic works well, they can clear get my call for action part. Problems lies at what pics to choose to fit the topic better and whether should I create another heading. Also, too much narratives can cause reading tiredness as well, for each chart, I should only use one sentence to point out the main finding in the chart.
