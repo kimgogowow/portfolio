@@ -90,7 +90,7 @@ The project will be finally presented in shorthand platform. And bar chart, pie 
 Pictures and videos will be needed to tell the background better, but too many medias can also be crowded, i will use minimum numbers of it.
 
 # PART II
-1.shorthand draft
+1.Wireframes and storyboards： see shorthand draft
 [CHECK HERE TO SEE SHORTHAND DRAFT](https://carnegiemellon.shorthandstories.com/finalProject_Yuchenw3/index.html)
 
 
