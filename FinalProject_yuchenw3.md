@@ -96,4 +96,10 @@ Pictures and videos will be needed to tell the background better, but too many m
 
 2.Interviews
 
+the target audience：
 
+        Since it is a social topic, everyone should be my target audience.
+        
+your approach to identifying representative individuals to interview; 
+
+![IMG_E5164218C6DF-1](https://user-images.githubusercontent.com/100476425/193727354-5f885b82-d803-462c-b4bc-c6591af73ecb.jpeg)
