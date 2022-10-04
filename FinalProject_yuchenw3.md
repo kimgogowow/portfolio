@@ -1,3 +1,5 @@
+# PART I
+
 Kidnapping is a global problem that affects countries all over the world—from the United States and Mexico to many countries in Africa, Asia, and beyond. Governments are working hard to address this problem and ensure that the perpetrators are captured and brought to justice.
 
 This program is to earn audiences attention on female kidnappings and notice the serious situation that females are facing with their safety.
@@ -87,5 +89,11 @@ In the solution part, also pictures will be offered to help with visualization o
 The project will be finally presented in shorthand platform. And bar chart, pie chart ,table, geographic graph can be applied in the shorthand platform.
 Pictures and videos will be needed to tell the background better, but too many medias can also be crowded, i will use minimum numbers of it.
 
+# PART II
+1.
+[CHECK HERE TO SEE SHORTHAND DRAFT](https://carnegiemellon.shorthandstories.com/finalProject_Yuchenw3/index.html)
+
+
+2.Interviews
 
 
