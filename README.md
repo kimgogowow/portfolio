@@ -43,6 +43,7 @@ Here's where all my cool work reocrds, then you can realize what I can do for yo
 ### Final project : [Github Pages](https://github.com/kimgogowow/portfolio/blob/7fd1e50a1ca3d408a177ee746bc0af0a519751b1/FinalProject_yuchenw3.md)
 
 ### useful tools : [rawgraphs.io](https://github.com/kimgogowow/portfolio/blob/1d30c766c0a3c06a38b798f6e9fe70c23a1b79e9/rawgraphs.md)
+                    [kepler.lg](https://kepler.gl/demo/map?mapUrl=https://dl.dropboxusercontent.com/s/kjkcphdbeprbllb/keplergl_i58vfi.json)
 
 ## Fun part
 <iframe title="[ Kim's life Map ] (Copy)" aria-label="Locator maps" id="datawrapper-chart-ItgMY" src="https://datawrapper.dwcdn.net/ItgMY/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="489"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
