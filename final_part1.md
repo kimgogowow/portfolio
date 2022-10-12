@@ -90,3 +90,4 @@ The project will be finally presented in shorthand platform. And bar chart, pie 
 Pictures and videos will be needed to tell the background better, but too many medias can also be crowded, i will use minimum numbers of it.
 
 
+[back to final project main page](FinalProject_yuchenw3.md)
