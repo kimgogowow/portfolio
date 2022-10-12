@@ -1,3 +1,6 @@
+## part 2
+
+
 1.Wireframes and storyboards： see shorthand draft
 [CHECK HERE TO SEE SHORTHAND DRAFT](https://carnegiemellon.shorthandstories.com/finalProject_Yuchenw3/index.html)
 
