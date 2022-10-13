@@ -54,8 +54,8 @@ Source in the end can be somehow unclear as it is hard to link to the correspond
 
 9.[how to create jobs](https://youtu.be/CgAsUMozfBE)
 
-10.[]()
-1.[]()
+10.[Adjusting to life after being held hostage or kidnapped](https://www.apa.org/topics/trauma/hostage-kidnap)
+
 
 
 ## Final shorthand Link
