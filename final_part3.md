@@ -1,5 +1,11 @@
 # Part III
 
+## Audience analysis
+I used to set my audience to be everyone, but that seems too wide
+thus I changed my target audience to be young females and people who care about them. 
+
+
+
 
 ## Changes made since Part II
  
