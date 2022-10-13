@@ -5,6 +5,9 @@
  
 1.Charts:
 Change the color – apply gray to all other fields except ‘very safe’, thus to stress the fact that the female feel less safe to call a car online. Thus chart changed from left to right
+<img width="232" alt="image" src="https://user-images.githubusercontent.com/100476425/195484083-97ef1053-f950-4781-94bf-ac7f2e9f2aa3.png">
+<img width="227" alt="image" src="https://user-images.githubusercontent.com/100476425/195484097-7d73763d-d13f-4455-a0aa-74d72ab0e062.png">
+
 
    
 
@@ -19,9 +22,6 @@ Narrow down the topics from all females in the USA to be young girls.
 3.Data and references:
 Source in the end can be somehow unclear as it is hard to link to the corresponding content, thus I added [data from] in every chart and materials to make the source more clear.
    
-
-
-![image](https://user-images.githubusercontent.com/100476425/195483952-ee6ac663-2aaa-4eb4-ad4c-d8de02d9b479.png)
 
 
 [back to final project main page](FinalProject_yuchenw3.md)
