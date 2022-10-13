@@ -13,3 +13,11 @@ Compared to the first one, the second one obviously has more clear vision over a
 But the second version also has problems. Firstly, each graph is individual from all others, thus we can not tell the overall situation, like which one is the highest or which one is the lowest. While each grid is very small, thus even with an ending dot to stress the current data, it is still very hard to tell the difference.
 
 Thus I  choose to use histogram instead of line chart. Firstly, the area of histogram can represent the scale of each country’s debt better. For example, it is very clear that AUT has more debt than AUS as its blue area is bigger. On the other hand, I changed the color from brown to dark blue , which seems more like a finance color, seems more reliable and professional.****
+
+
+
+
+
+
+
+[back to final project main page](FinalProject_yuchenw3.md)
