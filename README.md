@@ -34,13 +34,13 @@ Here's where all my cool work reocrds, then you can realize what I can do for yo
 
 
 ## Porfolio
-### Assignment1 : Create my Portfolio    [GitHub Pages](https://kimgogowow.github.io/portfolio/) 
+### Assignment1 :   [GitHub Pages](https://kimgogowow.github.io/portfolio/) 
 
-### Assignment2. :  [Github Pages](assignment2.md)
+### Assignment2. :  [Go check assignment](assignment2.md)
 
-### Assignment3&4 : [Github Pages](assignments%203&4.md)
+### Assignment3&4 : [Go check assignment](assignments%203&4.md)
 
-### Final project : [Github Pages](FinalProject_yuchenw3.md)
+### Final project : [Final Project](FinalProject_yuchenw3.md)
 
 ### useful tools : [rawgraphs.io](https://github.com/kimgogowow/portfolio/blob/1d30c766c0a3c06a38b798f6e9fe70c23a1b79e9/rawgraphs.md)./ [kepler.lg](https://kepler.gl/demo/map?mapUrl=https://dl.dropboxusercontent.com/s/kjkcphdbeprbllb/keplergl_i58vfi.json)
  
