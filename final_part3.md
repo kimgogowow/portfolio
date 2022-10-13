@@ -4,6 +4,8 @@
 I used to set my audience to be everyone, but that seems too wide
 thus I changed my target audience to be young females and people who care about them. 
 
+In the call for action part, young females can know how to protect themselves from being kidnapped, there is an video for them to watch can get some safety tips if they want to stay safe at home. And for people who care about their daughters or sisters or girlfriend, they can also know how to help, the importance of location sharing.
+
 
 
 
