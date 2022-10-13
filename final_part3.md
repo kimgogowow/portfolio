@@ -37,14 +37,23 @@ Source in the end can be somehow unclear as it is hard to link to the correspond
 ## Data source
 
 1.[United Nations](https://dataunodc.un.org/data/crime/kidnapping)
+
 2.[FBI website](https://www.fbi.gov/wanted/kidnap)
+
 3.[statistics](https://www-statista-com.cmu.idm.oclc.org/statistics/936578/ride-hailing-app-user-perceptions-of-safety-united-states-by-gender/)
+
 4.[tips for females](https://youtu.be/bTEQy3qey_c)
+
 5.[18 U.S. Code Chapter 55](https://www.law.cornell.edu/uscode/text/18/part-I/chapter-55)
+
 6.[ussc.gov](https://www.ussc.gov/sites/default/files/pdf/research-and-publications/quick-facts/Robbery_FY15.pdf)
+
 7.[hg.org](https://www.hg.org/legal-articles/aggravated-kidnapping-what-are-the-penalties-51889#:~:text=Penalties%20for%20Aggravated%20Kidnapping,years%20and%20life%20in%20prison.)
+
 8.[nealdavislaw](https://www.nealdavislaw.com/blog/drug-crimes/drug-trafficking-federal-sentencing#:~:text=Under%20federal%20law%2C%20persons%20convicted,90%20months%2C%20or%207%C2%BD%20years.)
+
 9.[how to create jobs](https://youtu.be/CgAsUMozfBE)
+
 10.[]()
 1.[]()
 
