@@ -32,8 +32,7 @@ Narrow down the topics from all females in the USA to be young girls.
 3.Data and references:
 Source in the end can be somehow unclear as it is hard to link to the corresponding content, thus I added [data from] in every chart and materials to make the source more clear.
    
-<img width="279" alt="image" src="https://user-images.githubusercontent.com/100476425/195484278-3e48b1d5-54f3-4a51-8d04-ca9e46606a79.png">
-<img width="217" alt="image" src="https://user-images.githubusercontent.com/100476425/195484291-f3525e6d-4827-432d-bc74-d0cdffc2a957.png">
+<img width="279" alt="image" src="https://user-images.githubusercontent.com/100476425/195484278-3e48b1d5-54f3-4a51-8d04-ca9e46606a79.png"><img width="217" alt="image" src="https://user-images.githubusercontent.com/100476425/195484291-f3525e6d-4827-432d-bc74-d0cdffc2a957.png">
 
 
 [back to final project main page](FinalProject_yuchenw3.md)
