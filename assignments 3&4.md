@@ -45,3 +45,7 @@ Aesthetics also improved as the icon removed, which makes the chart not that cro
 [check it here!](https://carnegiemellon.shorthandstories.com/finalProject_Yuchenw3)
 
 
+
+
+[back to final project main page](FinalProject_yuchenw3.md)
+
